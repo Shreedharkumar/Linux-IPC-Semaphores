@@ -123,15 +123,13 @@ int main() {
 ```
 $ ./sem.o 
 ```
-<img width="805" height="605" alt="image" src="https://github.com/user-attachments/assets/a8dabe0e-412d-480e-8982-e5dc6e07149f" />
+<img width="743" height="718" alt="image" src="https://github.com/user-attachments/assets/8bfea668-8181-42e8-a638-c58733846edc" />
 
 ```
 $ ipcs
 ```
 
-<img width="669" height="158" alt="image" src="https://github.com/user-attachments/assets/df3c6aac-1762-4d38-a81e-b38f0a146424" />
-
-
+<img width="806" height="203" alt="image" src="https://github.com/user-attachments/assets/e96ca673-77c0-40aa-981e-28df9171facb" />
 
 # RESULT:
 The program is executed successfully.
